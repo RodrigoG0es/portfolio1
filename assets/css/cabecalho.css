@@ -1,0 +1,31 @@
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #464646;
+    padding: 1rem ;
+}
+
+.cabecalho__logo{
+    padding-left: 1.25rem;
+    font-weight: bold;
+}
+
+.cabecalho__lista{
+    display: flex;
+    list-style: none;
+}
+
+.cabecalho__item{
+    padding-right: 1.25rem;
+}
+
+.cabecalho__item:hover{
+    padding-right: 1.25rem;
+    text-decoration: underline;
+}
+
+.cabecalho__item--link{
+    text-decoration: none;
+    color: #464646;
+}

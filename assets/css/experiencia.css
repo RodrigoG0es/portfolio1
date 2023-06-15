@@ -1,0 +1,43 @@
+.experiencia{
+    margin: 0 12% 2rem 12%
+}
+
+.experiencia__titulo{
+    text-align: center;
+}
+
+.experiencia__challenge{
+    display: flex;
+}
+
+.experiencia__imagem{
+    width: 95%;
+    height: auto;
+}
+
+.experiencia__caixa--imagem{
+    display: flex;
+}
+
+.experiencia__nome{
+    margin-bottom: 0;
+}
+
+.experiencia__descricao{
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+.experiencia__link{
+    color: #464646;
+    text-decoration: none;
+    border: 1px solid #464646;
+    padding: 0.50rem;
+    border-radius: 5px;
+}
+
+.experiencia__link:last-child{
+    background: rgb(14,15,44);
+    margin-left: 0.5rem;
+    color: #f5f5f5;
+}

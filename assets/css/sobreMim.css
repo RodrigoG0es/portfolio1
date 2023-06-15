@@ -1,0 +1,14 @@
+.sobreMim{
+    background: #eaf2fd;
+}
+
+.sobreMim__titulo{
+    margin: 0 12%;
+    padding: 4rem 0 1rem 0;
+}
+
+.sobreMim__texto{
+    margin: 0 12%;
+    text-align: justify;
+    padding-bottom: 4rem;
+}
